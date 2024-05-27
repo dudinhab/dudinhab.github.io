@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Maria Eduarda Barone [@dudinhab](https://github.com/dudinhab)
 
-![perfil duda - Copia](https://github.com/dudinhab/dudinhab.github.io/assets/127447739/265856d2-e208-47e1-86f7-2ef700d0da72)
+
+<img src="Img/perfil.jpg" width="150">
+
 - 📫 How to reach me?  
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-barone/) | [Instagram](https://instagram.com/dudsbarone) 
 - 📃 My [curriculum](https://dudinhab.github.io/curriculum-vitae/)  
@@ -9,10 +11,11 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 25/May/2024)
+Learning journey: (last update - 25/May/2024) 
+<img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
-- [x] ~~CSS~~
+- [x] ~~CSS~~  
 - [x] ~~JavaScipt basic~~
 - [ ] **Java basic**
 - [ ] Java advanced
@@ -22,6 +25,8 @@ Learning journey: (last update - 25/May/2024)
 - [ ] Node
 - [ ] TypeScript
 - [ ] JavaScript advanced
+
+      
 
 **🌱 I’m currently learning: _Java Basic_**
 
