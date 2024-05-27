@@ -2,8 +2,8 @@
 
 ![perfil duda - Copia](https://github.com/dudinhab/dudinhab.github.io/assets/127447739/265856d2-e208-47e1-86f7-2ef700d0da72)
 - 📫 How to reach me?  
-[LinkedIn](https://www.linkedin.com/in/maria-eduarda-barone/) | [Instagram](https://www.linkedin.com/in/maria-eduarda-barone/) | [MySite](https://www.linkedin.com/in/maria-eduarda-barone/)
-- 📃 My curriculum  
+[LinkedIn](https://www.linkedin.com/in/maria-eduarda-barone/) | [Instagram](https://instagram.com/dudsbarone) 
+- 📃 My [curriculum](https://dudinhab.github.io/curriculum-vitae/)  
 [English](https://dudinhab.github.io/curriculum-vitae/curriculum/cv_ingles.html) | [Italian](https://dudinhab.github.io/curriculum-vitae/curriculum/cv_italiano.html) | [Portuguese](https://dudinhab.github.io/curriculum-vitae/curriculum/cv_portugues.html)
 
 ---
