@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@dudinhab](https://github.com/dudinhab)
+# 👋 Hi, I’m Maria Eduarda Barone [@dudinhab](https://github.com/dudinhab)
 
 ![perfil duda - Copia](https://github.com/dudinhab/dudinhab.github.io/assets/127447739/265856d2-e208-47e1-86f7-2ef700d0da72)
 - 📫 How to reach me?  
