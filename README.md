@@ -36,7 +36,7 @@ Learning journey: (last update - 25/May/2024)
 # 👩🏼‍💻 Production
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudinhab&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinhab" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudinhab" alt="Guru's github stats"/>
