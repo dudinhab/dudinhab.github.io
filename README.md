@@ -11,7 +11,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 25/May/2024) 
+Learning journey: (last update - 29/May/2024) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
@@ -36,7 +36,7 @@ Learning journey: (last update - 25/May/2024)
 # 👩🏼‍💻 Production
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinhab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinhab&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudinhab" alt="Guru's github stats"/>
