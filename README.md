@@ -35,11 +35,11 @@ Learning journey: (last update - 25/May/2024)
 ---
 # 👩🏼‍💻 Production
 
-<a href="https://github.com/dudinhab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudinhab&theme=light&hide_langs_below=1" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudinhab&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/dudinhab">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudinhab&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+<a href="https://github.com/anuraghazra/convoychat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudinhab" alt="Guru's github stats"/>
 </a>
 
 
