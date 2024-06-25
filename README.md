@@ -11,14 +11,14 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 20/Jun/2024) 
+Learning journey: (last update - 25/Jun/2024) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
 - [x] ~~CSS~~  
 - [x] ~~JavaScipt basic~~
-- [ ] **Java basic**
-- [ ] Java advanced
+- [x] ~~Java basic~~
+- [ ] **Java advanced**
 - [ ] SQL
 - [ ] Spring Boot
 - [ ] React
@@ -28,7 +28,7 @@ Learning journey: (last update - 20/Jun/2024)
 
       
 
-**🌱 I’m currently learning: _Java Basic - Interface_**
+**🌱 I’m currently learning: _Java Advanced - Exceptions_**
 
 ---
 # 😄 Pronouns: she/her
