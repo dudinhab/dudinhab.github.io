@@ -18,7 +18,7 @@ Learning journey: (last update - 05/Jul/2024)
 - [x] ~~CSS~~  
 - [x] ~~JavaScipt basic~~
 - [x] ~~Java basic~~
-- [ ] **Java advanced**
+- [x] ~~Java advanced~~
 - [ ] SQL
 - [ ] Spring Boot
 - [ ] React
@@ -28,7 +28,7 @@ Learning journey: (last update - 05/Jul/2024)
 
       
 
-**🌱 I’m currently learning: _Java Advanced - Collections_**
+**🌱 I’m currently learning: _SQL_**
 
 ---
 # 😄 Pronouns: she/her
