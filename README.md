@@ -11,7 +11,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 05/Jul/2024) 
+Learning journey: (last update - 25/Jul/2024) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
@@ -19,12 +19,15 @@ Learning journey: (last update - 05/Jul/2024)
 - [x] ~~JavaScipt basic~~
 - [x] ~~Java basic~~
 - [x] ~~Java advanced~~
-- [ ] SQL
+- [ ] **SQL**
 - [ ] Spring Boot
-- [ ] React
+- [ ] **React**
 - [ ] Node
 - [ ] TypeScript
 - [ ] JavaScript advanced
+      
+
+**🌱 I’m currently learning: _SQL - JOIN_ & _React - Introduction_**
 
       
 
