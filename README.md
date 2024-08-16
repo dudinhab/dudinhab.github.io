@@ -30,9 +30,6 @@ Learning journey: (last update - 16/Ago/2024)
 
 **🌱 I’m currently learning: _Spring Boot - Introduction_ & _React - Introduction_**
 
-      
-
-**🌱 I’m currently learning: _SQL_**
 
 ---
 # 😄 Pronouns: she/her
