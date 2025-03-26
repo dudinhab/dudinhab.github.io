@@ -11,7 +11,7 @@
 ---
 
 #  👀 I’m interested in becoming a developer
-Learning journey: (last update - 03/Mar/2025) 
+Learning journey: (last update - 26/Mar/2025) 
 <img align="right" src="Img/octocat-2.png" width="100">
 - [x] ~~Git and Git-Hub~~ 
 - [x] ~~HTML~~
@@ -21,7 +21,7 @@ Learning journey: (last update - 03/Mar/2025)
 - [x] ~~Java advanced~~
 - [x] ~~SQL~~
 - [x] ~~Spring Boot~~
-- [ ] **C#**
+- [x] ~~C# - beginner~~
 - [ ] React
 - [ ] Node
 - [ ] TypeScript
@@ -29,7 +29,7 @@ Learning journey: (last update - 03/Mar/2025)
 
       
 
-**🌱 I’m currently learning: _C# - Store and iterate sequences of data using arrays and the foreach statement in C#_**
+**🌱 I’m currently learning: __**
 ---
 # 😄 Pronouns: she/her
 ---
